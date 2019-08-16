@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "app", "app\app.fsproj", "{CC8C575F-2696-4667-AF71-67AA832B232E}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "fsharp-scratch", "helloworldlib\fsharp-scratch.fsproj", "{F39D743C-3284-49E7-B24D-78ECC5A11ACD}"
-EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "helloworldlib", "helloworldlib\helloworldlib.fsproj", "{FEC0AFC5-F655-43CA-B203-227041A8E9D2}"
 EndProject
 Global
@@ -34,18 +32,6 @@ Global
 		{CC8C575F-2696-4667-AF71-67AA832B232E}.Release|x64.Build.0 = Release|Any CPU
 		{CC8C575F-2696-4667-AF71-67AA832B232E}.Release|x86.ActiveCfg = Release|Any CPU
 		{CC8C575F-2696-4667-AF71-67AA832B232E}.Release|x86.Build.0 = Release|Any CPU
-		{F39D743C-3284-49E7-B24D-78ECC5A11ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F39D743C-3284-49E7-B24D-78ECC5A11ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F39D743C-3284-49E7-B24D-78ECC5A11ACD}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{F39D743C-3284-49E7-B24D-78ECC5A11ACD}.Debug|x64.Build.0 = Debug|Any CPU
-		{F39D743C-3284-49E7-B24D-78ECC5A11ACD}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{F39D743C-3284-49E7-B24D-78ECC5A11ACD}.Debug|x86.Build.0 = Debug|Any CPU
-		{F39D743C-3284-49E7-B24D-78ECC5A11ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F39D743C-3284-49E7-B24D-78ECC5A11ACD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F39D743C-3284-49E7-B24D-78ECC5A11ACD}.Release|x64.ActiveCfg = Release|Any CPU
-		{F39D743C-3284-49E7-B24D-78ECC5A11ACD}.Release|x64.Build.0 = Release|Any CPU
-		{F39D743C-3284-49E7-B24D-78ECC5A11ACD}.Release|x86.ActiveCfg = Release|Any CPU
-		{F39D743C-3284-49E7-B24D-78ECC5A11ACD}.Release|x86.Build.0 = Release|Any CPU
 		{FEC0AFC5-F655-43CA-B203-227041A8E9D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FEC0AFC5-F655-43CA-B203-227041A8E9D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEC0AFC5-F655-43CA-B203-227041A8E9D2}.Debug|x64.ActiveCfg = Debug|Any CPU
