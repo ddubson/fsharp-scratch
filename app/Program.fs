@@ -1,4 +1,5 @@
-﻿open System
+﻿module app
+
 open HelloWorldLibrary
 
 // "let" is a keyword for declaring an immutable value

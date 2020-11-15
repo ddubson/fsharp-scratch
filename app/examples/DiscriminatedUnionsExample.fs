@@ -8,6 +8,8 @@ type MoneyWithdrawalResult =
     | CardExpired of System.DateTime
     | UndisclosedFailure
     
+let withdrawMoney n: MoneyWithdrawalResult = UndisclosedFailure
+    
 let handleWithdrawal amount =
     let w = withdrawMoney amount
     match w with
